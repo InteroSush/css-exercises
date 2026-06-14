@@ -5,3 +5,13 @@
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
+
+.black {
+    background-color: black;
+    color: white;
+    font-weight: 500;
+}
+
+.yellow {
+    background-color: yellow;
+}
